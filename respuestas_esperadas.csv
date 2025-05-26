@@ -1,11 +1,11 @@
-Prompt,RespuestaEsperada
-What is artificial intelligence?,Artificial intelligence is the ability of machines to perform tasks that typically require human intelligence.
-Summarize the plot of Romeo and Juliet.,Romeo and Juliet is a tragedy about two young lovers whose deaths ultimately reconcile their feuding families.
-What are the main causes of climate change?,The main causes of climate change include greenhouse gas emissions, deforestation, and industrial pollution.
-Explain quantum computing in simple terms.,Quantum computing uses quantum bits that can represent multiple states at once, allowing faster problem solving for specific tasks.
-Who was Albert Einstein?,Albert Einstein was a physicist known for the theory of relativity and the equation E=mc².
-List three benefits of exercise.,Exercise improves cardiovascular health, boosts mood, and increases energy levels.
-Translate this to French: Hello, how are you?,Bonjour, comment ça va?
-What is the capital of Japan?,Tokyo
-What happens when water boils?,When water boils, it turns into vapor as it reaches 100°C at standard pressure.
-Describe the importance of cybersecurity.,Cybersecurity protects systems and data from digital attacks, ensuring privacy and business continuity.
+"Prompt","RespuestaEsperada"
+"What is artificial intelligence?","Artificial intelligence is the ability of machines to perform tasks that typically require human intelligence."
+"Summarize the plot of Romeo and Juliet.","Romeo and Juliet is a tragedy about two young lovers whose deaths ultimately reconcile their feuding families."
+"What are the main causes of climate change?","The main causes of climate change include greenhouse gas emissions, deforestation, and industrial pollution."
+"Explain quantum computing in simple terms.","Quantum computing uses quantum bits that can represent multiple states at once, allowing faster problem solving for specific tasks."
+"Who was Albert Einstein?","Albert Einstein was a physicist known for the theory of relativity and the equation E=mc²."
+"List three benefits of exercise.","Exercise improves cardiovascular health, boosts mood, and increases energy levels."
+"Translate this to French: Hello, how are you?","Bonjour, comment ça va?"
+"What is the capital of Japan?","Tokyo"
+"What happens when water boils?","When water boils, it turns into vapor as it reaches 100°C at standard pressure."
+"Describe the importance of cybersecurity.","Cybersecurity protects systems and data from digital attacks, ensuring privacy and business continuity."
