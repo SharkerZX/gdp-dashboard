@@ -1,19 +1,26 @@
-# :earth_americas: GDP dashboard template
+# 🤖 LLM Quantized Evaluator
 
-A simple Streamlit app showing the GDP of different countries in the world.
+Una app interactiva desarrollada con **Streamlit** para evaluar y comparar modelos de lenguaje grandes (LLMs) en formato **GGUF** usando **llama.cpp**, con enfoque en ejecución sobre CPU en entornos de recursos limitados.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
+El proyecto mide:
 
-### How to run it on your own machine
+- ⏱️ Latencia de inferencia
+- 🎯 Precisión semántica (comparación contra respuestas esperadas)
+- 🧠 Cobertura del prompt
+- 📏 Longitud de la respuesta
 
-1. Install the requirements
+---
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+## 🚀 ¿Qué modelos se evalúan?
 
-2. Run the app
+- **Phi-2**
+- **TinyLlama 1.1B**
+- **Llama-2 7B**
+- **Mistral 7B (versión liviana Q4_0)**
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+Todos los modelos se descargan automáticamente desde Hugging Face si no están presentes.
+
+---
+
+## 📦 Estructura esperada del proyecto
+
